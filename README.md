@@ -8,5 +8,7 @@ This repository contains the implementation of the paper:
 "DeepKEA: Employing Deep Learning Models for Keyword Extraction from Patent Documents"
 by Rima Dessi, Hidir Aras, and Lei Zhang.
 
-<> If you are interested in the details of the paper, you can access it [here](link_to_paper).
+[comment]: <> (If you are interested in the details of the paper, you can access it [here](link_to_paper).)
+
+[comment]: <> (This is a comment, it will not be included)
 
